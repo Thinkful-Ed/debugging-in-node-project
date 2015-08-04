@@ -12,12 +12,18 @@
   },
   "keywords": [
     "thinkful",
-    "debugger"
+    "debugging"
   ],
   "author": "Evan Schneider",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Thinkful-Ed/project-debugging-in-node/issues"
   },
-  "homepage": "https://github.com/Thinkful-Ed/project-debugging-in-node"
+  "homepage": "https://github.com/Thinkful-Ed/project-debugging-in-node",
+  "dependencies": {
+    "debug": "^2.2.0"
+  },
+  "devDependencies": {
+    "node-inspector": "^0.12.1"
+  }
 }
