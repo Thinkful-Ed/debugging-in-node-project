@@ -1,0 +1,23 @@
+{
+  "name": "project-debugging-in-node",
+  "version": "1.0.0",
+  "description": "Debug a project using the node-inspector and debug modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thinkful-Ed/project-debugging-in-node.git"
+  },
+  "keywords": [
+    "thinkful",
+    "debugger"
+  ],
+  "author": "Evan Schneider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thinkful-Ed/project-debugging-in-node/issues"
+  },
+  "homepage": "https://github.com/Thinkful-Ed/project-debugging-in-node"
+}
